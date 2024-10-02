@@ -1,5 +1,5 @@
 # Level 1 - Standard Hello World Docker
-Customize your desktop environment using any tools (e.g. Rainmeter or Wallpaper Engine on windows, Rice your Desktop Environment on Linux)
+Create a simple command-line shell that accepts user input, executes commands, and handles basic operations (e.g., listing files, changing directories).
 ## Steps to Contribute
 + Fork the repo
 + Clone the forked repo to your local environment.
@@ -14,8 +14,7 @@ Customize your desktop environment using any tools (e.g. Rainmeter or Wallpaper 
   ```bash
     mkdir <your_username>
   ```
-+ In the folder add the screenshot of your customized Desktop Environoment
-  - Ensure that you run [neofetch](https://github.com/dylanaraps/neofetch) or some equivalent tool in a window included in the screenshot.
++ In the folder add the screenshot of your [docker](SysCom) and upload your docker file.
 + Add your changes
   ```bash
     git add .
