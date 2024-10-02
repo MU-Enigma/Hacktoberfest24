@@ -21,14 +21,16 @@ Please refer to the corresponding folders for exact problem statements and instr
 
 ## Level 2
 - Create a Simple custom shell that implements the equivalent of atleast the following basic commands:
+  
   + cd
   + mkdir
   + touch
   + Open file in any text editor (For example: nano, gedit in Linux/MacOS and notepad or notepad++)
+
 - Within the folder corresponding to the Level (i.e. Level2) create a folder with the same name as your username and include in it the following
   + All the files required to run your submission
     
   + A [README.md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github) file detailing exactly how to run your program
     
-  + If possible the associated Virtualenv (e.g. the venv folder if you are using python)
+  + If possible the associated [Virtualenv](https://docs.python.org/3/library/venv.html) (e.g. the venv folder if you are using python)
 
