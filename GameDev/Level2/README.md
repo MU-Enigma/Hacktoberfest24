@@ -1,6 +1,11 @@
 # Level 2 - Adding Capturing, Checks, and Checkmates
 Implement capturing mechanics, along with checks and checkmates. There’s no need for stalemates, en passant, or castling—just focus on the core rules of the game.
 
+## Resources
++ [Unity Chess 3D Final](https://www.youtube.com/watch?v=9-6EcY1qLug)
++ [Godot Chess 2D Checks](https://www.youtube.com/watch?v=t51j8xpn1O4&list=PLd_56bdSJ-tS4-q1gczTdKJhqMep3Ij_w&index=6)
++ [Godot Chess 2D Checkmates](https://www.youtube.com/watch?v=J3Cd3UV1Ccw&list=PLd_56bdSJ-tS4-q1gczTdKJhqMep3Ij_w&index=8)
+
 ## Steps to Contribute
 + Fork the repo
 + Clone the forked repo to your local environment.

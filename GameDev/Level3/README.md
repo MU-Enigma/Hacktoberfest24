@@ -1,6 +1,18 @@
 # Level3 - Implement A Unique Twist
 Introduce your own unique twist—this could be special abilities for certain pieces, changing the board’s layout mid-game, etc.
 
+## Twist Examples
++ [Chess 2.0 - Youtube](https://www.youtube.com/watch?v=TfY8Lseh0aY)
++ [Better Chess - Youtube](https://www.youtube.com/watch?v=mcivL8u176Y)
++ [Better Chess - Oats Jenkins](https://oatsjenkins.com/chess-2/)
++ [Chess 2: The Sequel - Steam](https://store.steampowered.com/app/314340/Chess_2_The_Sequel/)
++ [FPS Chess - Steam](https://store.steampowered.com/app/2021910/FPS_Chess/)
++ [Deckmate - Steam](https://store.steampowered.com/app/2376160/Deckmate/)
++ [5D Chess With Multiverse Time Travel - Steam](https://store.steampowered.com/app/1349230/5D_Chess_With_Multiverse_Time_Travel/)
++ [Really Bad Chess - Google Play](https://play.google.com/store/apps/details?id=com.noodlecake.reallybadchess&pcampaignid=web_share)
++ [Chessplode - Google Play](https://play.google.com/store/apps/details?id=com.juan.ma.chessplode&pcampaignid=web_share)
+
+
 ## Steps to Contribute
 + Fork the repo
 + Clone the forked repo to your local environment.

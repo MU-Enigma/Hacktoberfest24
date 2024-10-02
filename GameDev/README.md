@@ -1,6 +1,18 @@
 # GameDev Problem Types
 Please refer to the corresponding folders for exact problem statements and instructions
 
+## Resources
++ [Blender - 3D Creation Software](https://www.blender.org/)
++ [Godot Engine - Game Development Platform](https://godotengine.org/)
++ [Sketchfab - 3D Model Sharing Platform](https://sketchfab.com/)
++ [Itch.io - Game Hosting and Asset Sharing Platform](https://itch.io/)
++ [Godot Asset Library](https://godotengine.org/asset-library/asset)
++ [Blender Basics - YouTube Playlist](https://www.youtube.com/watch?v=H3BcVxaRgVY&list=PL3GeP3YLZn5hhfaGRSmRia0OwPPMfJu0V)
++ [Godot 3D Platformer - YouTube Playlist](https://www.youtube.com/watch?v=CI-cVKuSD1s&list=PLda3VoSoc_TTp8Ng3C57spnNkOw3Hm_35)
++ [Godot Basics - YouTube Tutorial](https://youtu.be/LOhfqjmasi0?si=h_kvn9YZ7Aswq7hQ)
+  
+**More specific resources for each level can be found in the README.md files for the respective levels.**
+
 ## Level 0
 - Model any two chess pieces in Blender, and design both black and white versions.
   
