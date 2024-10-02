@@ -68,6 +68,7 @@ To successfully contribute to this repository and participate in Hacktoberfest 2
 
 1. **Fork the Repository:**
    - Click the "Fork" button at the top-right corner of this repository to create your own copy.
+    ![forking](assets/forking.jpeg)
 
 2. **Clone Your Fork:**
    ```bash
