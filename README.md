@@ -119,7 +119,7 @@ To successfully contribute to this repository and participate in Hacktoberfest 2
 9. **Celebrate Your Contribution:**
     - Once your PR is merged, you've successfully contributed to Hacktoberfest 2024!
 
-> **Important:** Each problem must only have one pull request. Do not club multiple solutions in a single pull request, as it will be rejected.
+**Important:** Each problem must only have one pull request. Do not club multiple solutions in a single pull request, as it will be rejected.
 
 ---
 
