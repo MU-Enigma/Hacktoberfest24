@@ -2,7 +2,7 @@
 Please refer to the corresponding folders for exact problem statements and instructions
 
 ## Level 0
-Design a mocklup for the Enigma website using Canva/Figma or any tool of your choice.
+Design a mocklup for a redesigned Enigma website using Canva/Figma or any tool of your choice.
 - Within the folder corresponding to the Level (i.e. Level0) create a folder with the same name as your username and include in it the following
   - The images related to your mockup of the website
 
