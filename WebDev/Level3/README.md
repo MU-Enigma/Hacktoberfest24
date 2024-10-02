@@ -23,6 +23,8 @@ Redesign the Enigma Website Completely. Reimagine the Enigma website in any way 
   - All the files related to your website
     
   - A README.md detailing how to setup and run your website
+ 
+  - If deployed, you can provide the link of the website.
     
 + Add your changes
   ```bash
