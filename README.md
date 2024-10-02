@@ -13,9 +13,9 @@ The presentation for our introductory session on Git, Github and Hacktoberfest24
 
 ## Themes
 - [SysCom](SysCom)
-- [Webdev](Webdev)
+- [WebDev](WebDev)
 - [GenAI](GenAI)
-- [BOTS/NLP/LLaMA](BOTS-NLP-LLaMA)
+- [BotS/NLP/LLaMA](BotS-NLP-LLaMA)
 - [GameDev](GameDev)
 
 ## How to contribute
