@@ -20,8 +20,7 @@ Please refer to the corresponding folders for exact problem statements and instr
 - Within the folder corresponding to the Level (i.e. Level1) create a folder with the same name as your username and include in it the following
 
 ## Level 2
-- Create a Simple custom shell that implements the equivalent of atleast the following basic commands:
-  
+- Create a Simple custom shell that implements the functionality of the following basic commands from scratch in any programming language(C, Python, etc):
   + cd
   + mkdir
   + touch
@@ -34,3 +33,4 @@ Please refer to the corresponding folders for exact problem statements and instr
     
   + If possible the associated [Virtualenv](https://docs.python.org/3/library/venv.html) (e.g. the venv folder if you are using python)
 
+## Level 3
