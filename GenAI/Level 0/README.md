@@ -14,8 +14,7 @@ Make a spooky-themed Enigma logo using GenAI.
   ```bash
     mkdir <your_username>
   ```
-+ In the folder add the screenshot of your customized Desktop Environoment
-  - Ensure that you run [neofetch](https://github.com/dylanaraps/neofetch) or some equivalent tool in a window included in the screenshot.
++ In the folder add the screenshot of your generated Enigma logo, and a text file that specifies the AI model used and the prompts used to generate the logo.
 + Add your changes
   ```bash
     git add .
