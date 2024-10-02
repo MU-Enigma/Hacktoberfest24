@@ -18,7 +18,7 @@ Build a simple game in Godot where pieces move according to their basic rules (e
   ```
 + Navigate to the corresponding directory
   ```bash
-    cd Hacktoberfest24/GameDev/Level0/
+    cd Hacktoberfest24/GameDev/Level1/
   ```
 + Create a folder with the same name as your Username
   ```bash
