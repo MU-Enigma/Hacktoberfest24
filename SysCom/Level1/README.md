@@ -8,7 +8,7 @@ Create a simple command-line shell that accepts user input, executes commands, a
   ```
 + Navigate to the corresponding directory
   ```bash
-    cd Hacktoberfest24/SysCom/Level0/
+    cd Hacktoberfest24/SysCom/Level 1/
   ```
 + Create a folder with the same name as your Username
   ```bash
