@@ -1,5 +1,5 @@
 # Level 1 - Basic Chess Movement in Godot
-Build a simple game in Godot where pieces move according to their basic rules (e.g., pawns move forward, knights move in an L-shape). Focus on proper movement without worrying about capturing, castling, or special rules.
+Build a simple game in Godot where pieces move according to their basic rules (e.g., pawns move forward, knights move in an L-shape). Focus on proper movement without worrying about capturing, castling, promotion or special rules.
 
 ## Resources
 + [Godot Engine](https://godotengine.org/)
