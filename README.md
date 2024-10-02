@@ -19,7 +19,7 @@ The presentation for our introductory session on Git, Github and Hacktoberfest24
 - `cd Hacktoberfest_2022`
 3. Add all the changes that you make
 4. Open a Pull Request.
-   #### Every problem must only have one pull request. Do not club multiple solutions in a Single Pull Request, it will be rejected.
+#### Every problem must only have one pull request. Do not club multiple solutions in a Single Pull Request, it will be rejected.
 
    
 5. Wait for the moderator to accept your pull request.
