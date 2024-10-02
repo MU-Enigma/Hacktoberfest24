@@ -10,6 +10,7 @@ In this task, you are required to develop a Discord bot with any functionality o
 - Develop a Discord bot with one or more core functionalities.
 - Test the bot on a Discord server to ensure its proper functionality.
 - Submit the bot’s code and images showing it in action.
+- Suggestion : Use Hikari/Lightbulb and discord.py
 
 ### Steps to Contribute
 
