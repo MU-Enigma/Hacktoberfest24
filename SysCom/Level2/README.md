@@ -14,7 +14,7 @@ Feel free to use any programming language.
   ```
 + Navigate to the corresponding directory
   ```bash
-    cd Hacktoberfest24/SysCom/Level0/
+    cd Hacktoberfest24/SysCom/Level2/
   ```
 + Create a folder with the same name as your Username
   ```bash
