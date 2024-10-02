@@ -29,7 +29,7 @@ Feel free to use any programming language.
     
   - A [README.md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github) file detailing exactly how to run your program
     
-  - If possible the associated [Virtualenv](https://docs.python.org/3/library/venv.html) (e.g. the venv folder if you are using python)
+  - If possible the associated virtual environoment (e.g. the [venv](https://docs.python.org/3/library/venv.html) folder if you are using python)
     
 + Add your changes
   ```bash
