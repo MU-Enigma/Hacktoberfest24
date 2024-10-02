@@ -1,5 +1,11 @@
 # Level 0 - Modeling Chess Pieces
 Model any two chess pieces in Blender, and design both black and white versions.
+
+## Resources
++ [Blender](https://www.blender.org/)
++ [Blender Basics - YouTube Tutorial](https://www.youtube.com/watch?v=Iu8jV7g9Oqk)
++ [Blender Chess Piece Modeling - YouTube Playlist](https://www.youtube.com/watch?v=H3BcVxaRgVY&list=PL3GeP3YLZn5hhfaGRSmRia0OwPPMfJu0V)
+
 ## Steps to Contribute
 + Fork the repo
 + Clone the forked repo to your local environment.
