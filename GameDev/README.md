@@ -32,7 +32,7 @@ Please refer to the corresponding folders for exact problem statements and instr
   + The whole project folder (Click the folder icon under your project name in Godot main menu and upload the entire project folder)
   + A short video showcasing the capturing (with different pieces in different situations).
   + A short video showcasing the checks and checkmates (with different pieces in different situations).
-  +  If possible include screenshots of the exact code for capturing, checks, and checkmates.
+  + If possible include screenshots of the exact code for capturing, checks, and checkmates.
 
 ## Level 3
 - Introduce your own unique twist—this could be special abilities for certain pieces, changing the board’s layout mid-game, etc.
@@ -42,7 +42,7 @@ Please refer to the corresponding folders for exact problem statements and instr
   + All the files required to run your submission
        
   + The whole project folder (Click the folder icon under your project name in Godot main menu and upload the entire project folder) 
-  + A short video showcasing your unique twist (explain the twist in your video or explain it in your README file).
+  + A short video showcasing your unique twist (if possible explain the twist in your video, completely optional).
   + A [README.md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github) file detailing you twist and how it works
-  +  If possible include screenshots of the exact code for the twist.
+  + If possible include screenshots of the exact code for the twist.
 
