@@ -1,5 +1,6 @@
 # Level 0 - Modeling Chess Pieces
 Model any two chess pieces in Blender, and design both black and white versions.
+  - (Ensure that u take multiple screenshots throughout the process at different stages so we can see your process or a timelapse of your work)
 
 ## Resources
 + [Blender](https://www.blender.org/)
@@ -21,7 +22,8 @@ Model any two chess pieces in Blender, and design both black and white versions.
     mkdir <your_username>
   ```
 + In the folder add a screenshot of your model and its respective blend file.
-  - Ensure that you include a blend file (you can model multiple pieces in the same blend file) with the screenshot.
+  - Ensure that you include a blend file (you can model multiple pieces in the same blend file) with the screenshot.\
+  - Ensure that u take multiple screenshots throughout the process at different stages so we can see your process or a timelapse of your work
 + Add your changes
   ```bash
     git add .
