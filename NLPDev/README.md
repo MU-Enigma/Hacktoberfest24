@@ -110,6 +110,3 @@ This repository contains tasks related to developing Bots and NLP-based solution
   - Provide a detailed README documenting the fine-tuning process (dataset, method, parameters, etc.).
   - Add the model, outputs, and README to your folder in the `Level3` directory.
 
----
-
-This breakdown ensures that contributors understand each level's objectives and submission requirements. Let me know if you need more details!
