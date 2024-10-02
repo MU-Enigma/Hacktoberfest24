@@ -8,7 +8,7 @@ Use a Generative AI tool to fill in the missing part of an image, creating a sea
   ```
 + Navigate to the corresponding directory
   ```bash
-    cd Hacktoberfest24/GenAI/Level0/
+    cd Hacktoberfest24/GenAI/Level 1/
   ```
 + Create a folder with the same name as your Username
   ```bash
