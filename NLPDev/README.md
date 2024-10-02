@@ -3,46 +3,6 @@
 
 This repository contains tasks related to developing Bots and NLP-based solutions at different levels of complexity. Each level presents a unique challenge ranging from designing AI prompts to developing Discord bots and fine-tuning large language models (LLMs). Follow the steps below to contribute your solutions.
 
-## Steps to Contribute
-
-1. **Fork the Repo**
-   
-   First, fork this repository to your GitHub account.
-
-2. **Clone the Repo Locally**
-
-   ```bash
-   git clone https://github.com/<your_username>/Hacktoberfest_2024
-   ```
-
-3. **Navigate to the Task Directory**
-
-   Each task is categorized by levels. For example:
-
-   ```bash
-   cd Hacktoberfest24/NLPDev/Level2/
-   ```
-
-4. **Create a Folder Named After Your Username**
-
-   ```bash
-   mkdir <your_username>
-   ```
-
-5. **Add Your Solution Files**
-
-   Follow the specific instructions for each level. Add your solution, including code, documentation, screenshots, or links, to your username's folder.
-
-6. **Commit Your Changes**
-
-   ```bash
-   git add .
-   git commit -m "Added solution for Level <N> by <your_username>"
-   ```
-
-7. **Push and Open a Pull Request**
-   Push your changes to your fork and open a Pull Request for review.
-
 ## Task Levels Overview
 
 ### Level 0: Convincing AI of a False Fact
