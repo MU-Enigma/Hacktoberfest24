@@ -21,19 +21,19 @@ This repository contains tasks related to developing Bots and NLP-based solution
 
 ---
 
-### Level 1: Building a Chat Interface with an LLM
+### Level 1:Run a Chat Interface with an LLM
 
-- **Objective**: Create and run a simple chat interface using a Large Language Model (LLM).
+- **Objective**: Run a simple chat interface using a Large Language Model (LLM).
 
 - **Process**:
-  - Develop a basic chat interface that allows users to interact with the LLM.
+  - Install a run a simple chat interface to interact with an open-source LLM.
   - You can implement this either locally or by using a platform like Google Colab.
   - Test the interface by having a conversation with the LLM and ensure it supports basic communication.
 
 - **Submission**: 
   - Provide screenshots of the chat interface and the conversation with the LLM.
   - If applicable, submit the `.ipynb` file for Google Colab or the relevant code files.
-  - Include documentation on how to run the interface in your folder in the `Level1` directory.
+  - Include documentation on how to run the interface in your folder in the `Level 1` directory.
 
 ---
 
