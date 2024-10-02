@@ -9,7 +9,7 @@ Use a local AI tool to generate a spooky-themed music beat. This must be done wi
   ```
 + Navigate to the corresponding directory
   ```bash
-    cd Hacktoberfest24/GenAI/Level2/
+    cd Hacktoberfest24/GenAI/Level 2/
   ```
 + Create a folder with the same name as your Username
   ```bash
