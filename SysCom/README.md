@@ -19,10 +19,18 @@ Please refer to the corresponding folders for exact problem statements
 
 ## Level 2
 - Create a Simple custom shell that implements the equivalent of atleast the following basic commands:
-  + cd
-  + mkdir
-  + touch
-  + open file in any text editor
+  
+  ```bash
+  cd <your_directoryname> # changing the directory
+  ```
+  ```bash
+  mkdir <your_directoryname> #creating the directory
+  ```
+  ```bash
+  touch <your_filename> #creating the file
+  ```
+  
+  + Open file in any text editor (For example: nano, gedit in Linux/MacOS and notepad or notepad++)
 - Within the folder corresponding to the Level (i.e. Level2) create a folder with the same name as your username and include in it the following
   + All the files required to run your submission
   + A README.md file detailing exactly how to run your program
