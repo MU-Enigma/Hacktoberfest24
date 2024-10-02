@@ -7,11 +7,11 @@ Welcome to the **Hacktoberfest 2024** repository! This repository is your gatewa
 ## Table of Contents
 
 - [Themes Overview](#themes-overview)
-  - [1. SysCom (Systems and Communication)](#1-syscom-systems-and-communication)
-  - [2. WebDev (Web Development)](#2-webdev-web-development)
-  - [3. GenAI (Generative AI)](#3-genai-generative-ai)
-  - [4. Game Development](#4-game-development)
-  - [5. BOTS/NLP/LLaMA (Bots, Natural Language Processing, and LLaMA Models)](#5-botsnlp-llama-bots-nlp-llama-models)
+  - [SysCom]()
+  - [Web Development]()
+  - [Generative AI]()
+  - [Game Development]()
+  - [Bots, Natural Language Processing, and LLaMA Models]()
 - [Submission Guidelines](#submission-guidelines)
 - [Repository Do's and Don'ts](#repository-dos-and-donts)
 - [Resources](#resources)
