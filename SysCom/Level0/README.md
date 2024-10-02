@@ -1,7 +1,8 @@
 # Level 0 - Desktop customization
 Customize your desktop environment using any tools (e.g. Rainmeter or Wallpaper Engine on windows, Rice your Desktop Environment on Linux)
 ## Steps to Contribute
-+ Fork the repo
++ [Fork the repo](README.md)
+  
 + Clone the forked repo to your local environment.
   ```bash
      git clone https://github.com/<your_username>/Hacktoberfest_2022
