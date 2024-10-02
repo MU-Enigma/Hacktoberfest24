@@ -8,7 +8,7 @@ Make a spooky-themed Enigma logo using GenAI.
   ```
 + Navigate to the corresponding directory
   ```bash
-    cd Hacktoberfest24/GenAI/Level0/
+    cd Hacktoberfest24/GenAI/Level 0/
   ```
 + Create a folder with the same name as your Username
   ```bash
