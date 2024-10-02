@@ -108,6 +108,8 @@ To successfully contribute to this repository and participate in Hacktoberfest 2
    ```
 
 7. **Create a Pull Request (PR):**
+   
+   ![pull_rq](assets/pull_req.png)
    - Navigate to your forked repository on GitHub.
    - Click "Compare & pull request."
    - Provide a clear and descriptive title and description for your PR.
