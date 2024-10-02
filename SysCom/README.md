@@ -3,7 +3,9 @@ Please refer to the corresponding folders for exact problem statements and instr
 
 ## Level 0
 - Customize your desktop environment using tools (For example: Rainmeter for Windows)
+  
 - Submissions in the form of images
+  
 - Within the folder corresponding to the Level (i.e. Level1) create a folder with the same name as your username and include in it the following
   + A screenshot of your customized desktop, ensure that you run [neofetch](https://github.com/dylanaraps/neofetch) or some equivalent tool in a window included in the screenshot.
 
