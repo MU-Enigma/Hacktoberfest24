@@ -17,7 +17,7 @@ Please refer to the corresponding folders for exact problem statements
    docker run hello-world
    ```
   Upload the screenshot of the Docker.
-- Within the folder corresponding to the Level (i.e. Level0) create a folder with the same name as your username and include in it the following
+- Within the folder corresponding to the Level (i.e. Level1) create a folder with the same name as your username and include in it the following
 
 ## Level 2
 - Medium level coding
