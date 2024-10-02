@@ -5,8 +5,8 @@ Build a simple game in Godot where pieces move according to their basic rules (e
 + [Godot Engine](https://godotengine.org/)
 + [Godot Basics - YouTube Tutorial](https://youtu.be/LOhfqjmasi0?si=h_kvn9YZ7Aswq7hQ)
 + [3D Platformer Godot - YouTube Playlist](https://www.youtube.com/watch?v=CI-cVKuSD1s&list=PLda3VoSoc_TTp8Ng3C57spnNkOw3Hm_35)
-+ [Godot Chess Movement Tutorial 1](https://www.youtube.com/watch?v=1y57hJo1ONQ&list=PLd_56bdSJ-tS4-q1gczTdKJhqMep3Ij_w&index=1)
-+ [Godot Chess Movement Tutorial 2](https://www.youtube.com/watch?v=cWgo0ak_8sE)
++ [Godot Chess 2D](https://www.youtube.com/watch?v=1y57hJo1ONQ&list=PLd_56bdSJ-tS4-q1gczTdKJhqMep3Ij_w&index=1)
++ [Unity Chess 3D (Reference)](https://www.youtube.com/watch?v=cWgo0ak_8sE)
 
 ## Steps to Contribute
 + Fork the repo
