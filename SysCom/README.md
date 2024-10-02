@@ -1,5 +1,5 @@
 # SysCom Problem Types
-Please refer to the corresponding folders for exact problem statements
+Please refer to the corresponding folders for exact problem statements and instructions
 
 ## Level 0
 - Customize your desktop environment using tools (For example: Rainmeter for Windows)
