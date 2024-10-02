@@ -10,6 +10,7 @@ Please refer to the corresponding folders for exact problem statements and instr
 + [Blender Basics - YouTube Playlist](https://www.youtube.com/watch?v=H3BcVxaRgVY&list=PL3GeP3YLZn5hhfaGRSmRia0OwPPMfJu0V)
 + [Godot 3D Platformer - YouTube Playlist](https://www.youtube.com/watch?v=CI-cVKuSD1s&list=PLda3VoSoc_TTp8Ng3C57spnNkOw3Hm_35)
 + [Godot Basics - YouTube Tutorial](https://youtu.be/LOhfqjmasi0?si=h_kvn9YZ7Aswq7hQ)
+  
 **More specific resources for each level can be found in the README.md files for the respective levels.**
 
 ## Level 0
