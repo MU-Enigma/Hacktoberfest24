@@ -1,22 +1,23 @@
 
 
-# Level 1 - Building a Chat Interface with an LLM
+# Level 1 - Installing and Running a Chat Interface with an LLM
 
 ## Task Overview
 
-In this task, you are required to create and run a simple chat interface powered by a Large Language Model (LLM). The interface should allow users to interact with the LLM in a conversational format. You can run this locally or on a platform such as Google Colab. Your submission should include images of the conversation or a link to the Colab notebook, along with proper documentation of the process.
+In this task, you will install and run a **pre-built chat interface** powered by an **open-source Large Language Model (LLM)**. Open-source models like **LLaMA** provide powerful, flexible options for conversational AI. You will use readily available interfaces such as **Ollama** or **Oogabooga** to interact with these models. Your task is to successfully install, run the interface, interact with the LLM, and capture screenshots of the conversation.
 
 ### Objective
 
-- Build a basic chat interface that allows interaction with an LLM.
-- Capture the conversation with the LLM and provide documentation on how the interface was developed.
-- Provide a link to the Colab notebook or the chat interface code.
+- Install a pre-built interface like **Ollama** or **Oogabooga** that enables interaction with open-source LLMs like **LLaMA** or **GPT-Neo**.
+- Run the interface, converse with the LLM, and document the installation and execution steps.
+- Capture screenshots of the interaction and submit them along with a brief report on the process.
+
 
 ### Steps to Contribute
 
 1. **Fork the Repo**
 
-   - Fork the repository to your GitHub account.
+   - Fork the repository to your own GitHub account.
 
 2. **Clone the Repo**
 
@@ -42,53 +43,67 @@ In this task, you are required to create and run a simple chat interface powered
    mkdir <your_username>
    ```
 
-5. **Create and Test the Chat Interface**
+5. **Install a Pre-Built Chat Interface (e.g., Ollama or Oogabooga)**
 
-   - Set up a chat interface that interacts with an LLM. You can do this:
-     - **Locally**: Using any framework or tools of your choice (e.g., Ollama, Oogabooga).
-     - **Google Colab**: Set up the interface in a Colab notebook.
-   - Test the interface by conducting a conversation with the LLM.
+   - Choose a pre-built interface that supports open-source models. Some popular options are:
+     - **[Ollama](https://ollama.com/)**: A user-friendly interface for running LLaMA and similar models locally on your machine.
+     - **[Oogabooga](https://github.com/oobabooga/text-generation-webui)**: An advanced web interface for various open-source models, including LLaMA, GPT-Neo, and BLOOM.
 
-6. **Capture the Conversation**
 
-   - Take screenshots of the chat conversation, or save the output logs.
-   - If using Google Colab, save the Colab notebook (`.ipynb` file).
+6. **Download and Use an Open-Source Model**
 
-7. **Document the Process**
+   - You can choose from a variety of **open-source models**:
+     - **LLaMA**: [Meta’s LLaMA](https://huggingface.co/Meta) is available via Hugging Face.
+     - **GPT-Neo**: Available from [EleutherAI](https://huggingface.co/EleutherAI/gpt-neo-1.3B).
+     - **BLOOM**: An open-source multilingual model available from [BigScience](https://huggingface.co/bigscience/bloom).
+   
+   - Download the model using the interface’s tools. For example, with **Oogabooga**:
+     ```bash
+     python download-model.py EleutherAI/gpt-neo-1.3B
+     ```
 
-   - In a `.txt` or `.md` file, document:
-     - **How the Interface Was Built**: Provide a step-by-step explanation.
-     - **Frameworks/Tools Used**: List the tools, libraries, or frameworks you used.
-     - **How to Run the Interface**: If running locally, give instructions on how to set it up.
+7. **Run and Interact with the LLM**
 
-8. **Submit Screenshots or Notebook**
+   - Interact with the model by asking it questions or giving it prompts.
+   - Test different inputs and observe the LLM’s responses.
 
-   - Add screenshots of the conversation and the chat interface, or include a link to the Colab notebook.
-   - Save the notebook (`.ipynb` file) if applicable.
+8. **Capture the Conversation**
+
+   - Take **screenshots** of your conversation with the LLM, showing both the interface and the model’s responses.
+
+9. **Document the Process**
+
+   - In a `README.md` or `.txt` file, document:
+     - **Installation Steps**: Detail the steps you followed to install the interface and model.
+     - **Running the Interface**: Describe how you launched the chat interface and interacted with the LLM.
+     - **Challenges (if any)**: Note any issues you encountered during installation or interaction and how you resolved them.
+
+10. **Submit Screenshots and Documentation**
+
+   - Add the screenshots of the conversation and the documentation to your folder.
 
    Example:
 
    ```bash
    cp <your_screenshots>.png <your_username>/
-   cp <your_notebook>.ipynb <your_username>/
    cp README.md <your_username>/
    ```
 
-9. **Add and Commit Your Changes**
+11. **Add and Commit Your Changes**
 
-   - Stage your changes:
+    - Stage your changes:
 
-   ```bash
-   git add .
-   ```
+    ```bash
+    git add .
+    ```
 
-   - Commit your changes with a descriptive message:
+    - Commit your changes with a descriptive message:
 
-   ```bash
-   git commit -m "Added Level 1 Chat Interface task by <your_username>"
-   ```
+    ```bash
+    git commit -m "Added Level 1 task with Ollama/Oogabooga by <your_username>"
+    ```
 
-10. **Push Your Changes and Open a Pull Request**
+12. **Push Your Changes and Open a Pull Request**
 
     - Push your changes to your forked repository:
 
@@ -97,4 +112,3 @@ In this task, you are required to create and run a simple chat interface powered
     ```
 
     - Open a Pull Request to submit your work for review.
-
