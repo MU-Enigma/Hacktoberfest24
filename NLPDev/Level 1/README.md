@@ -52,15 +52,11 @@ In this task, you will install and run a **pre-built chat interface** powered by
 
 6. **Download and Use an Open-Source Model**
 
-   - You can choose from a variety of **open-source models**:
+   - You can choose from a variety of **open-source models** :
      - **LLaMA**: [Meta’s LLaMA](https://huggingface.co/Meta) is available via Hugging Face.
      - **GPT-Neo**: Available from [EleutherAI](https://huggingface.co/EleutherAI/gpt-neo-1.3B).
      - **BLOOM**: An open-source multilingual model available from [BigScience](https://huggingface.co/bigscience/bloom).
-   
-   - Download the model using the interface’s tools. For example, with **Oogabooga**:
-     ```bash
-     python download-model.py EleutherAI/gpt-neo-1.3B
-     ```
+
 
 7. **Run and Interact with the LLM**
 
