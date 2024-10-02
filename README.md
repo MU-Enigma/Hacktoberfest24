@@ -7,9 +7,16 @@ The presentation for our introductory session on Git, Github and Hacktoberfest24
 <br>
 
 ## Content
-1. [Committees and Problem Types](#committees-and-problem-types)
+1. [Themes](#themes)
 2. [How to Contribute](#how-to-contribute)
 <br>
+
+## Themes
+- [SysCom](SysCom)
+- Webdev
+- GenAI
+- BOTS/NLP/LLaMA
+- Gamedev
 
 ## How to contribute
 
