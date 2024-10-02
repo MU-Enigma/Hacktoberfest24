@@ -9,7 +9,7 @@ Create a system to generate poetry without relying on large language models (LLM
   ```
 + Navigate to the corresponding directory
   ```bash
-    cd Hacktoberfest24/GenAI/Level3/
+    cd Hacktoberfest24/GenAI/Level 3/
   ```
 + Create a folder with the same name as your Username
   ```bash
