@@ -1,5 +1,5 @@
 # Level 2 - Custom Shell
-Implement a custom shell with the basic functionality to implement the following commands:
+Create a Simple custom shell that implements the functionality of the following basic commands from scratch in any programming language(C, Python, etc)
 + cd
 + mkdir
 + touch
