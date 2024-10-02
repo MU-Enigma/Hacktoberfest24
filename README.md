@@ -1,5 +1,5 @@
 # Hacktoberfest24
-![HacktoberFestBanner]()
+![HacktoberFestBanner](assets/hacktober_banner.png)
 
 ## Resources
 The presentation for our introductory session on Git, Github and Hacktoberfest24 is as follows:
