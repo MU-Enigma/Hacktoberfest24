@@ -15,8 +15,12 @@ The presentation for our introductory session on Git, Github and Hacktoberfest24
 
 1. Fork this repo.
 2. Clone the forked repo to your local environment.
-- `git clone https://github.com/<your_username>/Hacktoberfest_2022`
-- `cd Hacktoberfest_2022`
+```bash
+   git clone https://github.com/<your_username>/Hacktoberfest_2022
+   ```
+```bash
+   cd Hacktoberfest_2022
+   ```
 3. Add all the changes that you make
 4. Open a Pull Request.
 #### Every problem must only have one pull request. Do not club multiple solutions in a Single Pull Request, it will be rejected.
