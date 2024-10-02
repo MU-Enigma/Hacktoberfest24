@@ -20,7 +20,7 @@ This repository contains tasks related to developing Bots and NLP-based solution
    Each task is categorized by levels. For example:
 
    ```bash
-   cd Hacktoberfest24/NLPDev/Level0/
+   cd Hacktoberfest24/NLPDev/Level2/
    ```
 
 4. **Create a Folder Named After Your Username**
