@@ -45,7 +45,7 @@ In this task, you are required to create and run a simple chat interface powered
 5. **Create and Test the Chat Interface**
 
    - Set up a chat interface that interacts with an LLM. You can do this:
-     - **Locally**: Using any framework or tools of your choice (e.g., Flask, Gradio, Python scripts).
+     - **Locally**: Using any framework or tools of your choice (e.g., Ollama, Oogabooga).
      - **Google Colab**: Set up the interface in a Colab notebook.
    - Test the interface by conducting a conversation with the LLM.
 
