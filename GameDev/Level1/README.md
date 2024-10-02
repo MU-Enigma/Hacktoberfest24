@@ -3,6 +3,8 @@ Build a simple game in Godot where pieces move according to their basic rules (e
 
 ## Resources
 + [Godot Engine](https://godotengine.org/)
++ [Sketchfab (Incase you skip Level0)](https://sketchfab.com/)
++ [Itch.io - (Incase you skip Level0)](https://itch.io/)
 + [Godot Basics - YouTube Tutorial](https://youtu.be/LOhfqjmasi0?si=h_kvn9YZ7Aswq7hQ)
 + [3D Platformer Godot - YouTube Playlist](https://www.youtube.com/watch?v=CI-cVKuSD1s&list=PLda3VoSoc_TTp8Ng3C57spnNkOw3Hm_35)
 + [Godot Chess 2D](https://www.youtube.com/watch?v=1y57hJo1ONQ&list=PLd_56bdSJ-tS4-q1gczTdKJhqMep3Ij_w&index=1)
