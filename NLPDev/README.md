@@ -21,7 +21,7 @@ This repository contains tasks related to developing Bots and NLP-based solution
 
 ---
 
-### Level 1 :Run a Chat Interface with an LLM
+### Level 1: Run a Chat Interface with an LLM
 
 - **Objective**: Run a simple chat interface using a Large Language Model (LLM).
 
