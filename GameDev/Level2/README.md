@@ -10,7 +10,7 @@ Implement capturing mechanics, along with checks and checkmates. There’s no ne
 + Fork the repo
 + Clone the forked repo to your local environment.
   ```bash
-     git clone https://github.com/<your_username>/Hacktoberfest_2022
+     git clone https://github.com/<your_username>/Hacktoberfest24
   ```
 + Navigate to the corresponding directory
   ```bash
