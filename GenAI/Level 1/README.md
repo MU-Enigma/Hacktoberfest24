@@ -9,7 +9,7 @@ Use a Generative AI tool to fill in the missing part of an image, creating a sea
 + Fork the repo
 + Clone the forked repo to your local environment.
   ```bash
-     git clone https://github.com/<your_username>/Hacktoberfest_2022
+     git clone https://github.com/<your_username>/Hacktoberfest24
   ```
 + Navigate to the corresponding directory
   ```bash
