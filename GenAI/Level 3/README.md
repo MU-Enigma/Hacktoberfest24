@@ -5,7 +5,7 @@ Create a system to generate poetry without relying on large language models (LLM
 + Fork the repo
 + Clone the forked repo to your local environment.
   ```bash
-     git clone https://github.com/<your_username>/HHacktoberfest24
+     git clone https://github.com/<your_username>/Hacktoberfest24
   ```
 + Navigate to the corresponding directory
   ```bash
