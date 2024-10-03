@@ -1,5 +1,7 @@
 # Level 1 - Generate the missing part of the image
 Use a Generative AI tool to fill in the missing part of an image, creating a seamless continuation or completion of the original artwork. Here is the image that you should expand:
+
+
 ![image](https://github.com/user-attachments/assets/269fc3af-b36f-46ae-a85a-fc56d8e42183)
 
 
