@@ -11,7 +11,7 @@ Model any two chess pieces in Blender, and design both black and white versions.
 + Fork the repo
 + Clone the forked repo to your local environment.
   ```bash
-     git clone https://github.com/<your_username>/Hacktoberfest_2022
+     git clone https://github.com/<your_username>/Hacktoberfest24
   ```
 + Navigate to the corresponding directory
   ```bash
