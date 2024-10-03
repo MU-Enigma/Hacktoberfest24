@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/styles.css">
+    <title>Event Details</title>
+</head>
+
+<body>
+    <header class="bg-dark text-white text-center py-4">
+        <h1 id="event-title">Event Title</h1>
+    </header>
+    <main class="container my-5">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="event-image-container">
+                    <img id="event-image" class="event-image" src="" alt="Event Image">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="event-details">
+                    <h4>Event Details</h4>
+                    <p id="event-description"></p>
+                    <p><strong>Date:</strong> <span id="event-date"></span></p>
+                    <p><strong>Time:</strong> <span id="event-time"></span></p>
+                    <p><strong>Location:</strong> <span id="event-location"></span></p>
+                    <p><strong>Organizer:</strong> <span id="event-organizer"></span></p>
+                    <p><strong>Contact:</strong> <a id="event-contact" href="#" target="_blank"></a></p>
+                    <a id="registration-link" class="btn btn-success" href="#">Register for Event</a>
+                    <button id="back-button" class="btn btn-warning">Back</button>
+                </div>
+            </div>
+        </div>
+    </main>
+    <script>
+        const events = [
+            {
+                title: 'Event 1',
+                date: '2024-10-15',
+                time: '10:00 AM - 4:00 PM',
+                location: 'Community Hall, Downtown',
+                organizer: 'John Doe',
+                organizerContact: 'john@example.com',
+                details: 'Detailed description about Event 1',
+                imageUrl: '/public/event1.jpeg'
+            },
+            {
+                title: 'Event 2',
+                date: '2024-11-10',
+                time: '9:00 AM - 5:00 PM',
+                location: 'City Park',
+                organizer: 'Jane Smith',
+                organizerContact: 'jane@example.com',
+                details: 'Detailed description about Event 2',
+                imageUrl: '/public/event2.jpeg'
+            },
+            {
+                title: 'Event 3',
+                date: '2024-12-05',
+                time: '1:00 PM - 6:00 PM',
+                location: 'Conference Center',
+                organizer: 'Alice Brown',
+                organizerContact: 'alice@example.com',
+                details: 'Detailed description about Event 3',
+                imageUrl: '/public/event3.jpeg'
+            },
+        ];
+        const urlParams = new URLSearchParams(window.location.search);
+        const eventTitle = urlParams.get('title');
+
+        const event = events.find(event => event.title === eventTitle);
+        if (event) {
+            document.getElementById('event-title').innerText = event.title;
+            document.getElementById('event-description').innerText = event.details;
+            document.getElementById('event-date').innerText = event.date;
+            document.getElementById('event-time').innerText = event.time;
+            document.getElementById('event-location').innerText = event.location;
+            document.getElementById('event-organizer').innerText = event.organizer;
+            document.getElementById('event-contact').innerText = event.organizerContact;
+            document.getElementById('event-contact').href = `mailto:${event.organizerContact}`;
+            document.getElementById('registration-link').href = `register.html?event=${encodeURIComponent(event.title)}`;
+            document.getElementById('event-image').src = event.imageUrl;
+        }
+
+        document.getElementById('back-button').addEventListener('click', () => {
+            window.history.back();
+        });
+    </script>
+</body>
+
+</html>
