@@ -7,7 +7,7 @@ Develop a working Events Calendar page for Enigma Website where users can view u
   
 + Clone the forked repo to your local environment.
   ```bash
-     git clone https://github.com/<your_username>/Hacktoberfest_2022
+     git clone https://github.com/<your_username>/Hacktoberfest24
   ```
 + Navigate to the corresponding directory
   ```bash
