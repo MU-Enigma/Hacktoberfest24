@@ -1,5 +1,7 @@
 # Level 1 - Generate the missing part of the image
-Use a Generative AI tool to fill in the missing part of an image, creating a seamless continuation or completion of the original artwork.
+Use a Generative AI tool to fill in the missing part of an image, creating a seamless continuation or completion of the original artwork. Here is the image that you should expand:
+![image](https://github.com/user-attachments/assets/a35f5fc5-0c96-42ac-b69e-24320a0c0cba)
+
 ## Steps to Contribute
 + Fork the repo
 + Clone the forked repo to your local environment.
