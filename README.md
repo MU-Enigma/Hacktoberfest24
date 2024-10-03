@@ -7,7 +7,7 @@ Welcome to the **Hacktoberfest 2024** repository! This repository is your gatewa
 ## Table of Contents
 
 - [Themes Overview](#themes-overview)
-  - [SysCom]()
+  - [SysCom](SysCom)
   - [Web Development]()
   - [Generative AI]()
   - [Game Development]()
