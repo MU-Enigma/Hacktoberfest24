@@ -23,7 +23,7 @@ In this task, you are required to develop a Discord bot with any functionality o
    - Clone the forked repository to your local environment:
 
    ```bash
-   git clone https://github.com/<your_username>/Hacktoberfest_2024
+   git clone https://github.com/<your_username>/Hacktoberfest24
    ```
 
 3. **Navigate to the Correct Directory**
