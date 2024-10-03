@@ -48,6 +48,7 @@ In this task, you will install and run a **pre-built chat interface** powered by
    - Choose a pre-built interface that supports open-source models. Some popular options are:
      - **[Ollama](https://ollama.com/)**: A user-friendly interface for running LLaMA and similar models locally on your machine.
      - **[Oogabooga](https://github.com/oobabooga/text-generation-webui)**: An advanced web interface for various open-source models, including LLaMA, GPT-Neo, and BLOOM.
+     - Recommended resource - **[AItreprenur on YouTube](https://youtu.be/C-7jGYOGvy4?si=OBlc4Beb_xyvhe1_)**.
 
 
 6. **Download and Use an Open-Source Model**
