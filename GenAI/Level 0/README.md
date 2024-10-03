@@ -1,5 +1,8 @@
 # Level 0 - Logo Generation
 Make a spooky-themed Enigma logo using GenAI.
+Here is the original logo:
+![image](https://github.com/user-attachments/assets/215f7b49-b87f-4e5c-ac69-b60498cde8bd)
+
 ## Steps to Contribute
 + Fork the repo
 + Clone the forked repo to your local environment.
