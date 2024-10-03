@@ -22,7 +22,7 @@ In this task, you are required to design a prompt that convinces an AI to believ
    - Clone the forked repository to your local environment.
 
    ```bash
-   git clone https://github.com/<your_username>/Hacktoberfest_2024
+   git clone https://github.com/<your_username>/Hacktoberfest24
    ```
 
 3. **Navigate to the Correct Directory**
