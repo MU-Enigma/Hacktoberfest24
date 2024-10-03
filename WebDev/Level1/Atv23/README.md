@@ -38,4 +38,4 @@ To run this project locally, follow these steps:
 
 For any inquiries, please contact:
 
-- Atharva Shukla - [atharva.1si20is007@gmail.com](mailto:your-email@example.com)
+- Atharva Shukla - [atharva.1si20is007@gmail.com]
