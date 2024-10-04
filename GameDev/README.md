@@ -18,7 +18,7 @@ Please refer to the corresponding folders for exact problem statements and instr
   
 - Submissions in the form of images and blend files
   
-- Within the folder corresponding to the Level (i.e. Level1) create a folder with the same name as your username and include in it the following
+- Within the folder corresponding to the Level (i.e. Level 0) create a folder with the same name as your username and include in it the following
   + A screenshot of your model and its respective blend file, ensure that you include a blend file (you can model multiple pieces in the same blend file) with the screenshot.
 
 ## Level 1
