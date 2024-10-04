@@ -16,6 +16,7 @@ Welcome to the **Hacktoberfest 2024** repository! This repository is your gatewa
 - [Repository Do's and Don'ts](#repository-dos-and-donts)
 - [Resources](#resources)
 - [License](#license)
+- [Hacktober24 session presentation](Hacktober2k24.pdf)
 
 ---
 
