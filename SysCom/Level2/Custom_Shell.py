@@ -49,8 +49,19 @@ def make_directory(command):
         sys.stdout.write("mkdir: missing operand\n")
 
 
-
 def create_file(command):
-    pass
+    if len(command) > 1:
+        for filename in command[1:]:
+            try:
+                # Open the file in append mode or just create it if it doesn't exist
+                with open(filename, 'a'):
+                    # Updating the file's last access and modification times
+                    os.utime(filename, None)
+            except Exception as e:
+                sys.stdout.write(f"Error creating file: {filename}\n")
+    else:
+        sys.stdout.write("touch: missing file operand\n")
+
+
 def open_file(command):
     pass
