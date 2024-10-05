@@ -37,9 +37,19 @@ def change_directory(command):
 
 
 
-
 def make_directory(command):
-    pass
+    if len(command) > 1:
+        try:
+            os.mkdir(command[1])
+        except FileExistsError:
+            sys.stdout.write(f"{command[1]}: Directory already exists\n")
+        except Exception as e:
+            sys.stdout.write(f"Error: {e}\n")
+    else:
+        sys.stdout.write("mkdir: missing operand\n")
+
+
+
 def create_file(command):
     pass
 def open_file(command):
