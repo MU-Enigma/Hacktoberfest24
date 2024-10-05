@@ -31,7 +31,7 @@ def change_directory(command):
         if len(command) > 1:
             os.chdir(command[1])
         else:
-            os.chdir(os.path.expanduser("~"))  # Default to home directory
+            os.chdir(os.path.expanduser("~"))  #Default to home directory
     except FileNotFoundError:
         sys.stdout.write(f"{command[1]}: No such file or directory\n")
 
@@ -64,4 +64,13 @@ def create_file(command):
 
 
 def open_file(command):
-    pass
+    if len(command) > 1:
+        for filename in command[1:]:
+            if os.path.exists(filename):
+                os.startfile(filename)  #Opens file with default application in Windows
+            else:
+                sys.stdout.write(f"{filename}: No such file or directory\n")
+    else:
+        sys.stdout.write("open: missing file operand\n")
+
+
