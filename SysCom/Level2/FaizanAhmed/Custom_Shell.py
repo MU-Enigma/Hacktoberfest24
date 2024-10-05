@@ -74,3 +74,4 @@ def open_file(command):
         sys.stdout.write("open: missing file operand\n")
 
 
+main()
