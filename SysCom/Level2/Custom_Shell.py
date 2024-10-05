@@ -27,6 +27,20 @@ def main():
             open_file(command)
 
 def change_directory(command):
+    try:
+        if len(command) > 1:
+            os.chdir(command[1])
+        else:
+            os.chdir(os.path.expanduser("~"))  # Default to home directory
+    except FileNotFoundError:
+        sys.stdout.write(f"{command[1]}: No such file or directory\n")
+
+
+
+
 def make_directory(command):
+    pass
 def create_file(command):
+    pass
 def open_file(command):
+    pass
