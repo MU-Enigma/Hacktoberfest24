@@ -6,7 +6,7 @@ Please refer to the corresponding folders for exact problem statements and instr
   
 - Submissions in the form of images
   
-- Within the folder corresponding to the Level (i.e. Level1) create a folder with the same name as your username and include in it the following
+- Within the folder corresponding to the Level (i.e. Level0) create a folder with the same name as your username and include in it the following
   + A screenshot of your customized desktop, ensure that you run [neofetch](https://github.com/dylanaraps/neofetch) or some equivalent tool in a window included in the screenshot.
 
 ## Level 1
