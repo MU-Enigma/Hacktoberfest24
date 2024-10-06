@@ -114,7 +114,7 @@ Each repository contains 4 levels of increasing complexity. Each level offers a 
      mkdir <your_username>
      ```
 
-## 5. **Add Your Contribution**
+### 5. **Add Your Contribution**
    - Inside your folder, add all the files relevant to your submission:
      - Generated images, code, audio files, etc., depending on the task.
      - Create a text file to provide information such as:
@@ -134,7 +134,7 @@ Each repository contains 4 levels of increasing complexity. Each level offers a 
      git commit -m "Added contribution for Level<X> : <task_name> by <your_username>"
      ```
 
-## 8. **Push Your Changes to Your Forked Repository**
+### 8. **Push Your Changes to Your Forked Repository**
    - Push the changes to the `main` branch of your forked repository:
      ```bash
      git push origin main
@@ -149,7 +149,7 @@ Each repository contains 4 levels of increasing complexity. Each level offers a 
    - Add a descriptive title and a comment explaining your contribution.
    - Submit the PR for review.
 
-## 10. **Await Review:**
+### 10. **Await Review:**
    - Maintainers will review your PR. They may request changes or approve it.
    - Engage respectfully and make necessary adjustments based on feedback.
 
