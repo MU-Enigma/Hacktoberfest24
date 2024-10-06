@@ -141,6 +141,9 @@ Each repository contains 4 levels of increasing complexity. Each level offers a 
      ```
 
 ### 9. **Open a Pull Request**
+
+![pull_rq](assets/pull_req.png)
+
    - Navigate to the original repository on GitHub.
    - You’ll see a message prompting you to open a Pull Request (PR). Click on **Compare & pull request**.
    - Add a descriptive title and a comment explaining your contribution.
