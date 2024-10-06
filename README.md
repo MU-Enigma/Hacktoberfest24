@@ -2,80 +2,96 @@
 
 ![HacktoberFestBanner](assets/hacktober_banner.png)
 
-Welcome to the **Hacktoberfest 2024** repository! This repository is your gateway to participating in Hacktoberfest by contributing to a variety of engaging projects across multiple themes. Whether you're a beginner looking to make your first open-source contribution or an experienced developer aiming to showcase your skills, there's something here for everyone. Dive into our themed challenges, complete different levels, and earn your Hacktoberfest rewards while building your portfolio.
+# Hacktoberfest24
+
+Welcome to **Hacktoberfest24**, an initiative by **Enigma** to consolidate all of Enigma's repositories that are open for Hacktoberfest contributions. This effort brings together projects across various themes under one platform, making it easier for contributors to identify and participate in **Hacktoberfest-approved** repositories. Whether you're a designer, developer, or enthusiast, you'll find challenges that suit your skill level, and you can contribute to meaningful projects while gaining hands-on experience and building your portfolio.
+
+---
 
 ## Table of Contents
 
-- [Themes Overview](#themes-overview)
-  - [SysCom](SysCom)
-  - [Web Development](WebDev)
-  - [Generative AI](GenAI)
-  - [Game Development](GameDev)
-  - [Bots, Natural Language Processing, and LLaMA Models](NLPDev)
-- [Submission Guidelines](#submission-guidelines)
+- [Hacktober24 session presentation](Hacktober2k24.pdf)
+- [Repos and Themes  Overview](#repos-and-themes-overview)
+  - Enigma-SysCom-Challenges (Computer Systems Development) ([repo link](https://github.com/MU-Enigma/Enigma-SysCom-Challenges))
+  - Enigma-WebDev-Challenges (Web Development) ([repo link](https://github.com/MU-Enigma/Enigma-WebDev-Challenges/))
+  - Enigma-GenAI-Challenges (Generative AI) ([repo link](https://github.com/MU-Enigma/Enigma-GenAI-Challenges))
+  - Enigma-GameDev-Challenges ([repo link](https://github.com/MU-Enigma/Enigma-GameDev-Challenges/))
+  - BotForge (Bots, NLP, and LLaMA Models related Devlopment) ([repo link](https://github.com/MU-Enigma/BotForge))
+- [Submission Guidelines](#general-guide-for-contribution)
 - [Repository Do's and Don'ts](#repository-dos-and-donts)
 - [Resources](#resources)
 - [License](#license)
-- [Hacktober24 session presentation](Hacktober2k24.pdf)
-- [test](https://github.com/MU-Enigma/BotForge)
 
 ---
 
-## Themes Overview
+### Important:
 
-This repository is divided into **5 themes**, each containing **4 levels** of increasing complexity. Each level offers a unique challenge that aligns with the theme, allowing contributors to progressively build their skills and portfolio.
-
-**Understanding Contribution Levels:**
-- **Level 0:** No code required; typically involves design, mockups, or documentation.
-- **Level 1:** Low code; simple scripts or small features.
-- **Level 2:** Medium code; more complex features or functionalities.
-- **Level 3:** High code/mini projects; comprehensive projects or significant features.
-
-### 1. SysCom (Systems and Communication)
-- Customize system environments
-- Work with Docker
-- Create custom shells
-- Build your own version control (a clone of Git or SVM)
-
-### 2. WebDev (Web Development)
-- Design mockups for Enigma website
-- Implement event calendar webpage for Enigma website
-- Implement blog posts into Enigma website
-- Redesign Enigma website or create a portfolio website
-
-### 3. GenAI (Generative AI)
-- Redesign logos
-- Manipulate images
-- Generate audio
-- Create poetry using AI techniques
-
-### 4. Game Development
-- Develop a 3D chess game using Godot and Blender
-  - Progressing from modeling to adding unique game mechanics
-
-### 5. BOTS/NLP/LLaMA (Bots, Natural Language Processing, and LLaMA Models)
-- Develop chatbots
-- Leverage NLP techniques
-- Fine-tune language models for specific tasks
+- **Refer to the README** under each Repository's folder for a more detailed description of each level and specific instructions for submitting your contribution.
+- **Each problem must have only one pull request.** Do not combine multiple solutions into a single PR, as it will be rejected.
 
 ---
 
-#### Refer to the README under each theme folder for a more detailed description of each level and instructions to submit your contribution.
+## Repos and Themes Overview 
 
+Each repository contains 4 levels of increasing complexity. Each level offers a unique challenge that aligns with the theme, allowing contributors to progressively build their skills and portfolio.
 
-**Important:** Each problem must only have one pull request. Do not club multiple solutions in a single pull request, as it will be rejected.
+### Understanding Contribution Levels:
+- **Level 0**: No code required; typically involves design, mockups, or documentation.
+- **Level 1**: Low code; simple scripts or small features.
+- **Level 2**: Medium code; more complex features or functionalities.
+- **Level 3**: High code/mini projects; comprehensive projects or significant features.
 
 ---
 
-# **General Procedure for Submitting Contributions**
+### 1. [**Enigma-SysCom-Challenges (Computer Systems Development)**](https://github.com/MU-Enigma/Enigma-SysCom-Challenges)
+- **Level 0**: Customize system environments.
+- **Level 1**: Work with Docker to containerize applications.
+- **Level 2**: Create custom shells.
+- **Level 3**: Build your own version control system (a clone of Git or SVN).
 
-## 1. **Fork the Repository**
+---
+
+### 2. [**Enigma-WebDev-Challenges (Web Development)**](https://github.com/MU-Enigma/Enigma-WebDev-Challenges/)
+- **Level 0**: Design mockups for the Enigma website.
+- **Level 1**: Implement an event calendar webpage for the Enigma website.
+- **Level 2**: Implement blog posts into the Enigma website.
+- **Level 3**: Redesign the Enigma website or create a personal portfolio website.
+
+---
+
+### 3. [**Enigma-GenAI-Challenges (Generative AI)**](https://github.com/MU-Enigma/Enigma-GenAI-Challenges)
+- **Level 0**: Redesign logos with a spooky theme using GenAI.
+- **Level 1**: Manipulate and fill in the missing parts of images.
+- **Level 2**: Generate a spooky beat locally using AI tools.
+- **Level 3**: Create poetry using AI techniques without using LLMs.
+
+---
+
+### 4. [**Game Development**](https://github.com/MU-Enigma/Enigma-GameDev-Challenges/)
+- **Level 0**: Design and model a 3D chessboard using Godot and Blender.
+- **Level 1**: Implement movement mechanics for chess pieces.
+- **Level 2**: Add visual effects and textures to the chess game.
+- **Level 3**: Build unique game mechanics or create additional levels to the game.
+
+---
+
+### 5. [**BotForge (Bots, NLP, and LLaMA Models related Devlopment)**](https://github.com/MU-Enigma/BotForge)
+- **Level 0**: Develop prompts to convince AI of a false fact.
+- **Level 1**: Fine-tune pre-trained models for specific NLP tasks.
+- **Level 2**: Develop a chatbot that can handle domain-specific tasks.
+- **Level 3**: Fine-tune a LLaMA model to perform a complex NLP task.
+
+---
+
+## General Guide for Contribution:
+
+### 1. **Fork the Repository**
    - Navigate to the repository on GitHub.
    - Click the **Fork** button on the top right to create a copy of the repository under your GitHub account.
    - ![forking](assets/forking.jpeg)
 
 
-## 2. **Clone the Forked Repository to Your Local Machine**
+### 2. **Clone the Forked Repository to Your Local Machine**
    - Copy the URL of your forked repository (e.g., `https://github.com/<your_username>/Enigma-GenAI-Challenges`).
    - Open your terminal or command prompt and run the following command to clone the repo:
      ```bash
@@ -86,13 +102,13 @@ This repository is divided into **5 themes**, each containing **4 levels** of in
      cd <repo_name>
      ```
 
-## 3. **Navigate to the Corresponding Level/Task Directory**
+### 3. **Navigate to the Corresponding Level/Task Directory**
    - Based on the task you're contributing to, navigate to the appropriate directory. For example:
      ```bash
      cd Level1/  # or Level0/, Level2/, etc.
      ```
 
-## 4. **Create a Folder Named After Your GitHub Username**
+### 4. **Create a Folder Named After Your GitHub Username**
    - Inside the specific task directory, create a folder named after your GitHub username to organize your submission:
      ```bash
      mkdir <your_username>
@@ -106,16 +122,16 @@ This repository is divided into **5 themes**, each containing **4 levels** of in
        - Prompts or methodologies applied.
        - Any additional required details as specified by the task.
 
-## 6. **Stage Your Changes**
+### 6. **Stage Your Changes**
    - After adding all necessary files, use `git` to stage the changes:
      ```bash
      git add .
      ```
 
-## 7. **Commit Your Changes**
+### 7. **Commit Your Changes**
    - Commit the changes with a descriptive message about your contribution:
      ```bash
-     git commit -m "Added contribution for <task_name> by <your_username>"
+     git commit -m "Added contribution for Level<X> : <task_name> by <your_username>"
      ```
 
 ## 8. **Push Your Changes to Your Forked Repository**
@@ -124,7 +140,7 @@ This repository is divided into **5 themes**, each containing **4 levels** of in
      git push origin main
      ```
 
-## 9. **Open a Pull Request**
+### 9. **Open a Pull Request**
    - Navigate to the original repository on GitHub.
    - You’ll see a message prompting you to open a Pull Request (PR). Click on **Compare & pull request**.
    - Add a descriptive title and a comment explaining your contribution.
@@ -134,11 +150,11 @@ This repository is divided into **5 themes**, each containing **4 levels** of in
    - Maintainers will review your PR. They may request changes or approve it.
    - Engage respectfully and make necessary adjustments based on feedback.
 
-## 11. **Celebrate Your Contribution:**
+### 11. **Celebrate Your Contribution:**
    - Once your PR is merged, you've successfully contributed to Hacktoberfest 2024!
 
 
-## **Checklist Before Submitting a Pull Request**
+### **Checklist Before Submitting a Pull Request**
 - [ ] Have you forked and cloned the repository?
 - [ ] Did you create a directory with your GitHub username?
 - [ ] Did you include all necessary files for your contribution (images, audio, text files, etc.)?
