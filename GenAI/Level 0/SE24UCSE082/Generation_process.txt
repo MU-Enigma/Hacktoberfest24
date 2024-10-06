@@ -1,0 +1,8 @@
+Roll no.:- SE24UCSE082
+AI model used is Canva.
+Prompts used:
+1. Halloween themed version. It just generated some images of jack o lanterns .
+2. Halloween themed version same picture. It just changed the background to jack o lanterns.
+3. Halloween themed version same picture with ghosts. It generated the logo with a slight change to the logo with ghosts.
+
+
