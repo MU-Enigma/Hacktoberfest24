@@ -1,0 +1,2 @@
+AI Model Used: DALL-E
+Prompts Used: A spooky-themed logo for the word 'Enigma', elegantly engraved with a haunting font. The background is dark and atmospheric, featuring shadows. The letters are adorned with mysterious symbols giving a sense of mystery and intrigue. The overall design should evoke a sense of the supernatural, with a touch of elegance and sophistication, suitable for a logo that represents enigma and mystery.
