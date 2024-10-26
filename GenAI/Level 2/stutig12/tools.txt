@@ -1,0 +1,3 @@
+Tool used: https://create.musicfy.lol/create/text-to-music
+Method: GenAi text to music generator
+Prompt: 90s bgm, light screams in the background and the music should sound spooky and mysterious
